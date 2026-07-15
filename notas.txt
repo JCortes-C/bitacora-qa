@@ -1,0 +1,3 @@
+El git init inicializa mi repositorio
+El git clone lo que hace es clonar un repositorio de GitHub
+El git status lo que hace es ver el estado de mis archivos
