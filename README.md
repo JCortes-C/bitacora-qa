@@ -1,1 +1,2 @@
-# Bitacora QA - Jesus Cortes Cortes
+Se suben cambios para revisión
+echo Se suben cambios para revisión
