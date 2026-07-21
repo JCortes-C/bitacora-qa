@@ -3,3 +3,4 @@ El git clone lo que hace es clonar un repositorio de GitHub
 El git status lo que hace es ver el estado de mis archivos
 El git pull traer cambios de GitHb que un compañero subio
 Linea correcta agregada
+NUEVA LIENA... ESTOY HACIENDO LA ACTIVIDAD 
